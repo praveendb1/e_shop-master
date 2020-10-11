@@ -1,7 +1,5 @@
+Ecommerce Application Of Water Supply Around The City
 
+tech stack: flutter dart firebase real time database
 
-
-Flutter Android & iOS eCommerce App like Amazon | FlipKart | AliExpress | Daraz using Firebase Firestore.
-Developed by: Coding Cafe
-
-Mail us at: alizeb875@gmail.com
+Mail us at: praveendb009@gmail.com
